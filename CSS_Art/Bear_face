@@ -1,0 +1,149 @@
+<!---HTML----->
+
+<div class="container">
+  <div class="head"> </div>
+   <div class="ear-l"></div>
+    <div class="ear-r"></div>
+   <div class="eye-l"></div>
+    <div class="eye-r"></div>
+    <div class="pupil-l"></div>
+    <div class="pupil-r"></div>
+  <div class="mouth"></div>
+      <div class="nose"></div> 
+  <div class="vertical-line"></div>
+    <div class="smile"></div>
+  <div
+
+</div>
+
+
+/*----CSS-----*/
+
+body{
+background:#E5627B;
+overflow:hidden;
+}
+.container{
+position:relative;
+margin:auto;
+display:block;
+width:500px;
+height:800px;
+
+}
+.head{
+  position:relative;
+margin:auto;
+width:250px;
+height:250px;
+  top:10%;
+border-radius:100%;
+background:#BE783C;
+
+}
+
+.ear-l{
+    position:relative;
+margin:auto;
+width:100px;
+height:60px;
+  top:-158px;
+  left:118px;
+  transform:rotate(55deg);
+border-radius:100px 100px 0px 0px;
+background:#E6A05A;
+  z-index:-1;
+}
+
+.ear-r{
+    position:relative;
+margin:auto;
+width:100px;
+height:60px;
+  top:-220px;
+  right:115px;
+  transform:rotate(-55deg);
+border-radius:100px 100px 0px 0px;
+background:#E6A05A;
+  z-index:-1;
+}
+.eye-l{
+   position:absolute;
+margin:auto;
+width:30px;
+height:30px;
+  top:150px;
+  left:190px;
+border-radius:100%;
+background:#000;
+}
+.eye-r{
+   position:absolute;
+margin:auto;
+width:30px;
+height:30px;
+  top:150px;
+  right:190px;
+border-radius:100%;
+background:#000;
+}
+.pupil-l{
+    position:absolute;
+margin:auto;
+width:10px;
+height:10px;
+  top:155px;
+  left:202px;
+border-radius:100%;
+background:#fff;
+}
+.pupil-r{
+    position:absolute;
+margin:auto;
+width:10px;
+height:10px;
+  top:155px;
+  right:197px;
+border-radius:100%;
+background:#fff;
+}
+.mouth{
+  position:absolute;
+  margin:auto;
+  width:150px;
+  height:100px;
+  border-radius:100%;
+  top:200px;
+  left:178px;
+  background:#E6A05A;
+}
+.nose{
+  position:absolute;
+  margin:auto;
+  width:50px;
+  height:30px;
+  border-radius:50px;
+  top:220px;
+  left:228px;
+  background:#000;
+}
+.vertical-line{
+   position:absolute;
+  margin:auto;
+  width:5px;
+  height:30px;
+  border-radius:5px;
+  top:240px;
+  left:250px;
+  background:#000;
+}
+.smile{
+  position:absolute;
+  top:220px;
+  left:214px;
+    width:80px;
+  height:50px;
+  border-radius:50%;
+  border-bottom:5px solid #000;
+
+}
