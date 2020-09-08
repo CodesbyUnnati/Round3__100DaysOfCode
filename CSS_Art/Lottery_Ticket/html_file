@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Lottery Ticket</title>
+  </head>
+
+  <body>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      #scratch {
+        position: relative;
+        width: 100%;
+        height: 100vh;
+      }
+    </style>
+    <div id="scratch"></div>
+    <script
+      src="https://code.jquery.com/jquery-2.2.4.min.js"
+      integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+      crossorigin="anonymous"
+    ></script>
+    <script src="wScratchPad.min.js"></script>
+
+    <script type="text/javascript">
+      $("#scratch").wScratchPad({
+        size: 150, // The size of the brush/scratch.
+        bg: "bg.jpg", // Background (image path or hex color).
+        fg: "15907.jpg", // Foreground (image path or hex color).
+      });
+    </script>
+  </body>
+</html>
