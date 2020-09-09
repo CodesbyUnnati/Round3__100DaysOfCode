@@ -1,6 +1,6 @@
 # Round3__100DaysOfCode
 
-<h3>In this Readme I'll update my CSS Projects.</h3>
+<h3>In this Readme I'll update some of my CSS Projects.</h3>
 
 <h2>Bear Face</h3>
 
