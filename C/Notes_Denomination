@@ -1,0 +1,28 @@
+#include <stdio.h>
+
+int main()
+{
+    int money, hun = 0, fif = 0, twen = 0, fiv = 0;
+    printf("Enter the amount that you want to get the denomination: ");
+    scanf("%d", &money);
+
+    hun = money / 100;
+    money = money - (hun * 100);
+    printf("%d x 100= %d\n", hun, (hun * 100));
+
+    fif = money / 50;
+    money = money - (fif * 50);
+    printf("%d x 50= %d\n", fif, (fif * 50));
+
+    twen = money / 20;
+    money = money - (twen * 20);
+    printf("%d x 20= %d\n", twen, (twen * 20));
+
+    fiv = money / 5;
+    money = money - (fiv * 5);
+    printf("%d x 5= %d\n", fiv, (fiv * 5));
+
+    printf("Total:%d\n", hun + fif + twen + fiv);
+
+    return 0;
+}
