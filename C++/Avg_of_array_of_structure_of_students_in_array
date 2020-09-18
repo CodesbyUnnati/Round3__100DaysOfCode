@@ -1,0 +1,43 @@
+#include <iostream>
+using namespace std;
+
+struct student
+{
+    char name[20];
+    float a, b, c, d, e;
+    float avg;
+};
+
+int main()
+{
+    int n, i;
+    cout << "Enter the size of Array: ";
+    cin >> n;
+    struct student a[n];
+    for (i = 0; i < n; i++)
+    {
+        cout << "\nEnter Name:";
+        cin >> a[i].name;
+        cout << "\nEnter Marks1:";
+        cin >> a[i].a;
+        cout << "\nEnter Marks2:";
+        cin >> a[i].b;
+        cout << "\nEnter Marks3:";
+        cin >> a[i].c;
+        cout << "\nEnter Marks4:";
+        cin >> a[i].d;
+        cout << "\nEnter Marks5:";
+        cin >> a[i].e;
+    }
+
+    for (i = 0; i < n; i++)
+    {
+        cout << "\nName: " << a[i].name << "\n "
+             << "Marks:"
+             << " " << a[i].a << " " << a[i].b << " " << a[i].c << " " << a[i].d << " " << a[i].e;
+
+        cout << "\nAverage: " << (a[i].a + a[i].b + a[i].c + a[i].d + a[i].e) / 5;
+    }
+
+    return 0;
+}
