@@ -1,0 +1,156 @@
+<div class="container">
+  
+<div class="oval">
+   <div class="eye-l">
+                 <div class="inner-black-l"></div>
+                 <div class="pink-l"></div>
+             </div>
+             <div class="eye-r">
+                 <div class="inner-black-r"></div>
+                 <div class="pink-r"></div>
+             </div>
+  <div class="triangle"></div>
+   <div class="triangle-r"></div>
+  <div class="smile"></div>
+
+</div>
+
+
+
+body{
+background:#333;
+}
+.container{
+position:relative;
+margin:auto;
+width:500px;
+height:800px;
+
+}
+.oval{
+  position:relative;
+  margin:100px auto;
+  width:260px;
+  height:350px;
+  border-radius:150px;
+  background:#115AF7;
+}
+.eye-l{
+position: relative;
+background: white;
+top: 20%;
+left: -1%;
+border-radius: 50%;
+border: solid 4px black;
+width: 40%;
+height: 45%;
+animation:wink 3s linear infinite;
+
+}
+@keyframes wink{
+0%, 5%, 60%, 62%, 100% {
+transform: scaleX(1) scaleY(1);
+}
+1%, 61% {
+transform: scaleX(1.5) scaleY(0.1);
+}
+}
+.inner-black-l{
+position: absolute;
+background: white;
+top: 20%;
+left: 20%;
+border-radius: 50%;
+border: solid 30px black;
+width: 20%;
+height: 25%;
+z-index:1;
+}
+.eye-r{
+position: absolute;
+background: white;
+top: 20%;
+right: 0.1%;
+border-radius: 50%;
+border: solid 4px black;
+width: 40%;
+height: 45%;
+animation:wink 3s linear infinite;
+
+}
+.inner-black-r{
+position: absolute;
+background: white;
+top: 20%;
+left: 0%;
+border-radius: 50%;
+border: solid 30px black;
+width: 20%;
+height: 25%;
+z-index:1;
+}
+.pink-l{
+top: 1.5%;
+position: absolute;
+background:#F57ACB;
+border-radius: 50%;
+width: 85%;
+height: 97%;
+left: 15%;
+}
+.pink-r{
+top: 1.5%;
+position: absolute;
+background: #F57ACB;
+border-radius: 50%;
+width: 85%;
+height: 97%;
+left: 1%;
+}
+/*-----EYE-----*/
+.mouth{
+position: absolute;
+height: 20%;
+left:40%;
+top:65%;
+width: 20%;
+border:4px solid black;
+border-radius: 58% 68% 72% 74% / 58% 68% 72% 74%;
+background:#000;
+animation:open 3s linear infinite;
+
+
+}
+.smile{
+  position:absolute;
+  top:220px;
+  left:85px;
+    width:80px;
+  height:60px;
+  border-radius:50%;
+  border-bottom:5px solid #000;
+  z-index:2;
+
+}
+.triangle{
+  position:absolute;
+  width: 0;
+  height: 0;
+  left:-120px;
+  border-left: 90px solid transparent;
+  border-right: 90px solid transparent;
+  border-bottom: 100px solid yellow;
+  transform:rotate(190deg);
+  z-index:-1;
+}
+.triangle-r{
+  position:absolute;
+  width: 0;
+  height: 0;
+  right:-120px;
+  border-left: 90px solid transparent;
+  border-right: 90px solid transparent;
+  border-bottom: 100px solid yellow;
+  transform:rotate(-190deg);
+  z-index:-1;
+}
