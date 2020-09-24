@@ -1,0 +1,15 @@
+#include<iostream>
+using namespace std;
+template<class T1,class T2>
+float Average(T1 a,T2 b)
+{
+  float avg=(a+b)/2;
+  return avg;
+}
+int main()
+{
+  float o;
+  o=Average(50,20.9);
+  cout<<o;
+  return 0;
+}
