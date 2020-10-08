@@ -1,4 +1,4 @@
-# Round3__100DaysOfCode.
+# Round3 100DaysOfCode.
 
 <h3>In this Readme I'll update some of my CSS Projects.</h3>
 
