@@ -17,3 +17,4 @@
 <li>My Exams are going on, so I will come back after a week</li>
 <li>Writing this, because don't wanna break my green streak.</li>
 <li>Completed my Hacktoberfest challenge</li>
+<li>Today was my BirthDay, so didn't did much.</li>
