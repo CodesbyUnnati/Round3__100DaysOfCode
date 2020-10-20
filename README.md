@@ -18,3 +18,4 @@
 <li>Writing this, because don't wanna break my green streak.</li>
 <li>Completed my Hacktoberfest challenge</li>
 <li>Today was my BirthDay, so didn't did much.</li>
+<li>Because of my FLA exam, I studied some automata conversions</li>
