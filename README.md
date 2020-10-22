@@ -20,3 +20,4 @@
 <li>Today was my BirthDay, so didn't did much.</li>
 <li>Because of my FLA exam, I studied some automata conversions</li>
 <li>Did some coding questions</li>
+<li>Not in a good mood today, took a day off</li>
