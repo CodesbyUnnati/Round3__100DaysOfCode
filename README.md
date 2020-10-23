@@ -21,3 +21,6 @@
 <li>Because of my FLA exam, I studied some automata conversions</li>
 <li>Did some coding questions</li>
 <li>Not in a good mood today, took a day off</li>
+<br>
+<h2>Panda</h2?
+  <img src="https://i.ibb.co/LxrJ1vV/pandaa.png" alt="pandaa" border="0">
