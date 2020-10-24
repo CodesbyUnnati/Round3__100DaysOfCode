@@ -24,3 +24,5 @@
 <br>
 <a href="https://codepen.io/unnatimishra/pen/zYBNxxp"><h2>Panda</h2></a>
   <img src="https://i.ibb.co/LxrJ1vV/pandaa.png" alt="pandaa" border="0">
+  <br>
+  <li>Started off with some DSA theory</li>
