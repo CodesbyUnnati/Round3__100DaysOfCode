@@ -26,3 +26,4 @@
   <img src="https://i.ibb.co/LxrJ1vV/pandaa.png" alt="pandaa" border="0">
   <br>
   <li>Started off with some DSA theory</li>
+<li>Did my 30 days of GCP</li>
