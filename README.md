@@ -27,3 +27,4 @@
   <br>
   <li>Started off with some DSA theory</li>
 <li>Did my 30 days of GCP</li>
+<LI>Practiced and learned about Asymptotic notations</li>
