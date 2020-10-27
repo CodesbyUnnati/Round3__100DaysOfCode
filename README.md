@@ -28,3 +28,4 @@
   <li>Started off with some DSA theory</li>
 <li>Did my 30 days of GCP</li>
 <LI>Practiced and learned about Asymptotic notations</li>
+<li>Studied some concepts of Recursion</li>
