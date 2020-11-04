@@ -30,3 +30,4 @@
 <LI>Practiced and learned about Asymptotic notations</li>
 <li>Studied some concepts of Recursion</li>
 <li>Learning concepts of DS</li>
+<li>Completed my Assignments</li>
