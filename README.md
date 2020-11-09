@@ -31,3 +31,4 @@
 <li>Studied some concepts of Recursion</li>
 <li>Learning concepts of DS</li>
 <li>Completed my Assignments</li>
+<li>Started with theconcepts of Arrays today.</li>
