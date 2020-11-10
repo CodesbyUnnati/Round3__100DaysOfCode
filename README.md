@@ -32,3 +32,4 @@
 <li>Learning concepts of DS</li>
 <li>Completed my Assignments</li>
 <li>Started with theconcepts of Arrays today.</li>
+<li>Practiced some socket programming for my practicals</li>
