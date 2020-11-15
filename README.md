@@ -34,3 +34,4 @@
 <li>Started with theconcepts of Arrays today.</li>
 <li>Practiced some socket programming for my practicals</li>
 <li>Did some recursion quetions</li>
+<li>Was on a 2 day leave for Diwali, will resume back fromn tommorow</li>
