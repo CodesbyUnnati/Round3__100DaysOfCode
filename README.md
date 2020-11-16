@@ -35,3 +35,4 @@
 <li>Practiced some socket programming for my practicals</li>
 <li>Did some recursion quetions</li>
 <li>Was on a 2 day leave for Diwali, will resume back fromn tommorow</li>
+<li>Studied the concept of searching and Sorting</li>
