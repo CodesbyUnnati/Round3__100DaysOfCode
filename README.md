@@ -37,3 +37,4 @@
 <li>Was on a 2 day leave for Diwali, will resume back fromn tommorow</li>
 <li>Studied the concept of searching and Sorting</li>
 <li>Some more concepts of Searching</li>
+<li>Studied some Networking Fundamentals.</li>
