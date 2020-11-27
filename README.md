@@ -40,3 +40,4 @@
 <li>Studied some Networking Fundamentals.</li>
 <li>Studied Google APIs basics</li>
 <li>Was busy making my Internship Report<li>
+<li>Studied About Turing  Machine</li>
