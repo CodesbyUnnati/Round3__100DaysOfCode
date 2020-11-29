@@ -42,3 +42,4 @@
 <li>Was busy making my Internship Report</li>
 <li>Studied About Turing  Machine</li>
 <li>Tired today, attended many meetings today.</li>
+<li>Some theory of Data Structures</li>
