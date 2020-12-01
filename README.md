@@ -44,3 +44,4 @@
 <li>Tired today, attended many meetings today.</li>
 <li>Some theory of Data Structures</li>
 <li>Studied about Array Abstract Data Type</li>
+<li>Some simple questions on array</li>
