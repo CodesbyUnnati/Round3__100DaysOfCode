@@ -45,4 +45,4 @@
 <li>Some theory of Data Structures</li>
 <li>Studied about Array Abstract Data Type</li>
 <li>Some simple questions on array</li>
-<li>?Did some good questions of Arrays</li>
+<li>Did some good questions of Arrays</li>
