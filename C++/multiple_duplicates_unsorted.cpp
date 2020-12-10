@@ -22,7 +22,7 @@ int main()
                 if (A[i] == A[j])
                 {
                     count++;
-                    A[j] = -1;
+                    A[j] = -1; //AS IT COMPARES I AND I+1 SO DUPLICATES AFTER I+1 ARE NOT COUNTED SO -1 DONE.
                 }
             }
             if (count > 1)
