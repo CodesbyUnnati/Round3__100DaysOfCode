@@ -51,3 +51,4 @@
 <li>Solved Apti questions</li>
 <li>Concept of Matrices</li>
 <li>Covered most of the concept of Matrices</li>
+<li>Studied FLA</li>
