@@ -52,3 +52,4 @@
 <li>Concept of Matrices</li>
 <li>Covered most of the concept of Matrices</li>
 <li>Studied FLA</li>
+<li>Preparing for Exams</li>
