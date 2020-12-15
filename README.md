@@ -54,3 +54,4 @@
 <li>Studied FLA</li>
 <li>Preparing for Exams</li>
 <li>Studied about the different Automata conversions.</li>
+<li>Studied more about Automata conversion.</li>
