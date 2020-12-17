@@ -56,3 +56,4 @@
 <li>Studied about the different Automata conversions.</li>
 <li>Studied more about Automata conversion.</li>
 <li>I am having my exams from tommorow!!</li>
+<li>Took a day off, because my mind is overloaded with Automata Theory!</li>
