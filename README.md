@@ -58,3 +58,4 @@
 <li>I am having my exams from tommorow!!</li>
 <li>Took a day off, because my mind is overloaded with Automata Theory!</li>
 <li>Did some self-work today.</li>
+<li>Studied about the basics of Cloud Computing</li>
