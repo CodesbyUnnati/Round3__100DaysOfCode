@@ -60,3 +60,4 @@
 <li>Did some self-work today.</li>
 <li>Studied about the basics of Cloud Computing</li>
 <li>Have my Cloud Computing exam tomorrow!</li>
+<li>Learned about different types of Networking Protocols.</li>
