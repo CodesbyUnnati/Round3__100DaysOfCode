@@ -61,3 +61,4 @@
 <li>Studied about the basics of Cloud Computing</li>
 <li>Have my Cloud Computing exam tomorrow!</li>
 <li>Learned about different types of Networking Protocols.</li>
+<li>Tomorrow is my Networking Exam!!</li>
