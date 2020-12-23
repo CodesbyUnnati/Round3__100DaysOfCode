@@ -62,3 +62,4 @@
 <li>Have my Cloud Computing exam tomorrow!</li>
 <li>Learned about different types of Networking Protocols.</li>
 <li>Tomorrow is my Networking Exam!!</li>
+<li>Studied Business to Business Marketing as tomorrow is my paper</li>
