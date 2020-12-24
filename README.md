@@ -63,3 +63,4 @@
 <li>Learned about different types of Networking Protocols.</li>
 <li>Tomorrow is my Networking Exam!!</li>
 <li>Studied Business to Business Marketing as tomorrow is my paper</li>
+<li>Revised my DS Notes</li>
