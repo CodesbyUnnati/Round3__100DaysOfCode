@@ -66,3 +66,4 @@
 <li>Revised my DS Notes</li>
 <li>Completed my Maths exam today!</li>
 <li>New Year's Eve</li>
+<li>Solved some basic problems on codechef</li>
