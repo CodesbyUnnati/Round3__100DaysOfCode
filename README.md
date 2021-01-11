@@ -67,3 +67,4 @@
 <li>Completed my Maths exam today!</li>
 <li>New Year's Eve</li>
 <li>Solved some basic problems on codechef</li>
+<li>Solved one problem on Codechef</li>
