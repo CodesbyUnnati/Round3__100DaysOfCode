@@ -69,3 +69,4 @@
 <li>Solved some basic problems on codechef</li>
 <li>Solved one problem on Codechef</li>
 <li>Studied Linked List</li>
+<li>5th Sem classes started</li>
