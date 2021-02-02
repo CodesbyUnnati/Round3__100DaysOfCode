@@ -73,3 +73,4 @@
 <li>Wrote few Programs</li>
 <li>Studied Seive Of Eratosthenes</li>
 <li>Circular Linked List</li>
+<li>Started with Stack today.</li>
