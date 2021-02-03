@@ -74,3 +74,4 @@
 <li>Studied Seive Of Eratosthenes</li>
 <li>Circular Linked List</li>
 <li>Started with Stack today.</li>
+<li>Learned about implementation of Stack using Linked List.</li>
