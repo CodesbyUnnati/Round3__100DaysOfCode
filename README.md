@@ -76,3 +76,4 @@
 <li>Started with Stack today.</li>
 <li>Learned about implementation of Stack using Linked List.</li>
 <li>Learned about Infix to Postfix Conversion.</li>
+<li>SQL BASICS</li>
