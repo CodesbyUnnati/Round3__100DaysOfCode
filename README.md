@@ -77,3 +77,4 @@
 <li>Learned about implementation of Stack using Linked List.</li>
 <li>Learned about Infix to Postfix Conversion.</li>
 <li>SQL BASICS</li>
+<li>Struggled a lot with SQL queries today!</li>
