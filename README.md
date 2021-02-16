@@ -79,3 +79,4 @@
 <li>SQL BASICS</li>
 <li>Struggled a lot with SQL queries today!</li>
 <li>Studied E-R Daigram Today.</li>
+<li>Learned about Regex to NFA conversion.</li>
